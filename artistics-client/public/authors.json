@@ -1,0 +1,123 @@
+[
+    {
+        "id":1,
+        "name": "Dony Herrera",
+        "img":"https://i.ibb.co/LkNVtdg/author-1.webp",
+        "cover_img":"https://i.ibb.co/SJTKPfz/cover-1.webp",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    },
+    {
+        "id":2,
+        "name": "Truelock Alric",
+        "img":"https://i.ibb.co/LkNVtdg/author-1.webp",
+        "cover_img":"https://i.ibb.co/SJTKPfz/cover-1.webp",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    },
+    {
+        "id":3,
+        "name": "Birrell Chariot",
+        "img":"https://i.ibb.co/LkNVtdg/author-1.webp",
+        "cover_img":"https://i.ibb.co/SJTKPfz/cover-1.webp",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    },
+    {
+        "id":4,
+        "name": "Foulcher Nathanil",
+        "img":"https://i.ibb.co/LkNVtdg/author-1.webp",
+        "cover_img":"https://i.ibb.co/SJTKPfz/cover-1.webp",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    },
+    {
+        "id":5,
+        "name": "Falconar Agnes",
+        "img":"https://i.ibb.co/LkNVtdg/author-1.webp",
+        "cover_img":"https://i.ibb.co/SJTKPfz/cover-1.webp",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    },
+    {
+        "id":5,
+        "name": "Tousy Vita",
+        "img":"https://i.ibb.co/LkNVtdg/author-1.webp",
+        "cover_img":"https://i.ibb.co/SJTKPfz/cover-1.webp",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    },
+    {
+        "id":6,
+        "name": "Fiar Donna",
+        "img":"https://i.ibb.co/LkNVtdg/author-1.webp",
+        "cover_img":"https://i.ibb.co/SJTKPfz/cover-1.webp",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    },
+    {
+        "id":7,
+        "name": "Royal Sergei",
+        "img":"https://i.ibb.co/LkNVtdg/author-1.webp",
+        "cover_img":"https://i.ibb.co/SJTKPfz/cover-1.webp",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    },
+    {
+        "id":8,
+        "name": "Sleite Claudetta",
+        "img":"https://i.ibb.co/LkNVtdg/author-1.webp",
+        "cover_img":"https://i.ibb.co/SJTKPfz/cover-1.webp",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    },
+    {
+        "id":9,
+        "name": "Pillifant Vern",
+        "img":"https://i.ibb.co/LkNVtdg/author-1.webp",
+        "cover_img":"https://i.ibb.co/SJTKPfz/cover-1.webp",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    },
+    {
+        "id":10,
+        "name": "Fones Mimi",
+        "img":"https://i.ibb.co/LkNVtdg/author-1.webp",
+        "cover_img":"https://i.ibb.co/SJTKPfz/cover-1.webp",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    }
+]
