@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "title":"Garden",
+        "article":"13 Articles",
+        "img":"https://i.ibb.co/fqZhMkd/garden.webp"
+    },
+    {
+        "id":2,
+        "title":"Jewelry",
+        "article":"16 Articles",
+        "img":"https://i.ibb.co/fqZhMkd/garden.webp"
+    },
+    {
+        "id":3,
+        "title":"Industrial",
+        "article":"15 Articles",
+        "img":"https://i.ibb.co/fqZhMkd/garden.webp"
+    },
+    {
+        "id":4,
+        "title":"Tools",
+        "article":"21 Articles",
+        "img":"https://i.ibb.co/fqZhMkd/garden.webp"
+    },
+    {
+        "id":5,
+        "title":"Automotive",
+        "article":"16 Articles",
+        "img":"https://i.ibb.co/fqZhMkd/garden.webp"
+    },
+    {
+        "id":6,
+        "title":"Toys",
+        "article":"25 Articles",
+        "img":"https://i.ibb.co/fqZhMkd/garden.webp"
+    },
+    {
+        "id":7,
+        "title":"Outdoors",
+        "article":"14 Articles",
+        "img":"https://i.ibb.co/fqZhMkd/garden.webp"
+    },
+    {
+        "id":8,
+        "title":"Health",
+        "article":"3 Articles",
+        "img":"https://i.ibb.co/fqZhMkd/garden.webp"
+    },
+    {
+        "id":9,
+        "title":"Electronics",
+        "article":"7 Articles",
+        "img":"https://i.ibb.co/fqZhMkd/garden.webp"
+    }
+]
