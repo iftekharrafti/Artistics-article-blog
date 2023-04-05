@@ -33,6 +33,28 @@ h1 {
   font-size: 44px;
   line-height: 1.1;
 }
+h1 {
+  font-size: 38px;
+  font-weight: bold;
+  line-height: 1.1;
+}
+
+p{
+  color: #8A8F9A;
+  font-size: 18px;
+}
+
+.icon{
+  font-size:18px;
+}
+.icon-text{
+  font-size:16px;
+  margin-left: 10px;
+}
+
+.footer-text{
+  font-style: 16px;
+}
 
 .background-color{
   background: #F8F8F8;
