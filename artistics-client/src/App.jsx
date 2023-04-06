@@ -8,6 +8,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
+// React tabs
+import 'react-tabs/style/react-tabs.css';
+
 function App() {
   return (
     <div className="">

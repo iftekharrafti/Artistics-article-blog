@@ -5,6 +5,7 @@ import TrendingTopics from "./TrendingTopics/TrendingTopics";
 import GreatStories from "./GreatStories/GreatStories";
 import NewsLetter from "./NewsLetter/NewsLetter";
 import HomeAuthors from "./HomeAuthors/HomeAuthors";
+import EditorsPick from "./EditorsPick/EditorsPick";
 
 const Home = () => {
   return (
@@ -12,6 +13,9 @@ const Home = () => {
       <Container>
         <Banner />
         <TrendingTopics />
+      </Container>
+      <EditorsPick />
+      <Container>
         <GreatStories />
       </Container>
       <HomeAuthors />
