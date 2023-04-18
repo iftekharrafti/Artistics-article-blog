@@ -1,5 +1,6 @@
 import React from "react";
 import { Image } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 const Author = ({ author }) => {
   const { name, img, cover_img } = author;
@@ -13,7 +14,9 @@ const Author = ({ author }) => {
       </div>
 
       <div style={{textAlign: 'center', marginTop: '40px', padding: '0 0 20px 0'}}>
-        <h5>{name}</h5>
+        <h5>
+          <Link to="/" style={{color: 'black'}}>{name}</Link>
+        </h5>
         <p>@Author Job</p>
       </div>
     </div>

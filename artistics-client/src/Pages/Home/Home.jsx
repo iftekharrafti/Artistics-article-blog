@@ -3,9 +3,9 @@ import { Container } from "react-bootstrap";
 import Banner from "./Banner/Banner";
 import TrendingTopics from "./TrendingTopics/TrendingTopics";
 import GreatStories from "./GreatStories/GreatStories";
-import NewsLetter from "./NewsLetter/NewsLetter";
 import HomeAuthors from "./HomeAuthors/HomeAuthors";
 import EditorsPick from "./EditorsPick/EditorsPick";
+import NewsLetter from "../../Components/NewsLetter/NewsLetter";
 
 const Home = () => {
   return (

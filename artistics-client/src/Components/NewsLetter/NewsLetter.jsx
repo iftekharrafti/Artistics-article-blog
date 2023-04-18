@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Image, Row } from "react-bootstrap";
-import img from "../../../assets/newsletter.webp";
+import img from "../../assets/newsletter.webp";
 import { BsFillArrowRightCircleFill } from "react-icons/bs";
 
 const NewsLetter = () => {
@@ -63,10 +63,11 @@ const NewsLetter = () => {
                     borderRadius: "70px",
                     padding: "12px",
                     width: "60%",
-                    border: '1px solid #8A8F9A'
+                    border: '1px solid #8A8F9A',
+                    height:'40px'
                   }}
                 />
-                <BsFillArrowRightCircleFill style={{fontSize: '25px', margin: '-30px', cursor: 'pointer'}} />
+                <BsFillArrowRightCircleFill style={{fontSize: '30px', margin: '-35px', cursor: 'pointer'}} />
               </div>
             </form>
           </div>
