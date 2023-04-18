@@ -29,11 +29,15 @@ body {
   box-sizing: border-box;
 }
 
+.container{
+  max-width: 95%;
+}
+
 h1 {
   font-size: 44px;
   line-height: 1.1;
 }
-h1 {
+h2 {
   font-size: 38px;
   font-weight: bold;
   line-height: 1.1;
@@ -42,6 +46,16 @@ h1 {
 p{
   color: #8A8F9A;
   font-size: 18px;
+}
+
+contact-p{
+  color: #8A8F9A;
+  font-size: 16px;
+}
+
+.contact-header{
+  font-size:14px;
+  font-weight: bold;
 }
 
 .icon{

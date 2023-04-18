@@ -8,26 +8,36 @@ const MainNavbar = () => {
   return (
     <Navbar collapseOnSelect expand="lg" bg="white" variant="white">
       <Container>
-        <Navbar.Brand className="me-5" href="#home">
-          Artistics
+        <Navbar.Brand className="me-5">
+          <Link style={{ color: "black" }} to="/">Artistics</Link>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
-          <Nav className="me-auto text-center">
+          <Nav className="m-auto text-center">
             <Nav.Link className="fs-6 fw-bold">
-              <Link style={{color: 'black'}} to="/">Home</Link>
+              <Link style={{ color: "black" }} to="/">
+                Home
+              </Link>
             </Nav.Link>
             <Nav.Link className="fs-6 fw-bold">
-              <Link style={{color: 'black'}} to="/about">About</Link>
+              <Link style={{ color: "black" }} to="/about">
+                About
+              </Link>
             </Nav.Link>
             <Nav.Link className="fs-6 fw-bold">
-              <Link style={{color: 'black'}} to="/articles">Articles</Link>
+              <Link style={{ color: "black" }} to="/articles">
+                Articles
+              </Link>
             </Nav.Link>
             <Nav.Link className="fs-6 fw-bold">
-              <Link style={{color: 'black'}} to="/topics">Topics</Link>
+              <Link style={{ color: "black" }} to="/topics">
+                Topics
+              </Link>
             </Nav.Link>
             <Nav.Link className="fs-6 fw-bold">
-              <Link style={{color: 'black'}} to="/contact">Contact Us</Link>
+              <Link style={{ color: "black" }} to="/contact">
+                Contact Us
+              </Link>
             </Nav.Link>
           </Nav>
           <Nav>
@@ -38,7 +48,7 @@ const MainNavbar = () => {
               <BiSearch style={{ fontSize: "20px", marginLeft: "10px" }} />
             </Nav.Link>
             <button className="button" style={{ marginLeft: "10px" }}>
-              Sign up
+              <Link to="/signup" style={{color: "white"}}>Sign up</Link>
             </button>
           </Nav>
         </Navbar.Collapse>

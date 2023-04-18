@@ -1,0 +1,46 @@
+[
+    {
+        "id":1,
+        "name": "Niamh O'shea",
+        "img":"https://i.ibb.co/L9xw8LQ/founder-1.webp",
+        "designation": "Founder",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    },
+    {
+        "id":2,
+        "name": "Danien",
+        "img":"https://i.ibb.co/L9xw8LQ/founder-1.webp",
+        "designation": "Co-founder",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    },
+    {
+        "id":3,
+        "name": "Dara Frazier",
+        "img":"https://i.ibb.co/L9xw8LQ/founder-1.webp",
+        "designation": "Managing Director",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    },
+    {
+        "id":4,
+        "name": "Orla Dwyer",
+        "img":"https://i.ibb.co/L9xw8LQ/founder-1.webp",
+        "designation": "Marketing Manager",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro autem totam iure quibusdam asperiores numquam quae animi assumenda necessitatibus consectetur.",
+        "facebook":"https://www.facebook.com/iftekhar.rafti",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/iftekhar-rafti/",
+        "instagram":"https://www.instagram.com/"
+    }
+]
